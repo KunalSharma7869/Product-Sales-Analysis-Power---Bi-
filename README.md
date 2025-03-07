@@ -14,7 +14,7 @@ To create a visually appealing dashboard that provides an overview of the compan
 
 **Report has multiple section's from where you can manage the data, like :**
 
-- Report data can be sliced by Segments, Country and Year to show particular data.
+- Report data can be sliced by Country,product and segment to show particular data visualization.
 
 - Report has cards showing Total Units Sold, Total Gross Sale and Total Profit.
 
@@ -22,8 +22,6 @@ To create a visually appealing dashboard that provides an overview of the compan
 
 - And Lastly, Report has a area chart showing months on X-Axis and profit on Y-Axis showing profit monthly.
 
-- I have also included a **Reset** button at the top to clear all slicer's.
-
-- To use it hold CTRL and then click it to reset all the slicer's.
+- To use it hold CTRL and then click it to reset all the buttons to move from one dashboard to other.
 
 
