@@ -1,29 +1,29 @@
-# Financial Reporting & Analysis with Power BI
+## Finance Report Dashboard
 
-Welcome to the Financial Reporting & Analysis with Power BI repository! This project showcases a comprehensive financial reporting and advanced analysis solution built using Power BI. Leveraging powerful data analysis expressions (DAX) and financial analysis techniques, this project delivers adaptable visualizations and insightful analytics for diverse datasets.
+Hello Everyone, 
 
-## Features
+I made this Finance Dashboard in Power BI with the Finance Excel Workbook provided by Microsoft on their Website.
 
-- **Comprehensive Financial Reporting**: Gain insights into financial performance through a detailed Profit & Loss Statement and other fundamental analytics.
+## Problem Statement
 
-- **Adaptable Visualizations**: Crafted visualizations that adapt to diverse datasets, providing flexibility and ease of analysis.
+The goal of this Power BI Dashboard is to analyze the financial performance of a company using the provided Microsoft Sample Data.
 
-- **Advanced Data Analysis with DAX**: Utilize DAX functions to perform advanced data analysis, enabling the creation of detailed financial models and reports.
+To create a visually appealing dashboard that provides an overview of the company's financial metrics enabling stakeholders to make informed business decisions.
 
-- **In-depth Analytics**: Conduct in-depth analysis to unveil concealed patterns in financial data, empowering strategic decision-making.
+## Sections in the Report
 
-## Technology Stack
+**Report has multiple section's from where you can manage the data, like :**
 
-- **Power BI**: The primary tool used for developing the financial reporting and analysis solution.
-- **Data Analysis Expression (DAX)**: Leveraged for advanced data modeling and calculations.
-- **Financial Analysis Technique**: Applied to ensure accurate financial reporting and analysis.
+- Report data can be sliced by Segments, Country and Year to show particular data.
 
-## Examples
+- Report has cards showing Total Units Sold, Total Gross Sale and Total Profit.
 
-Here are a few examples of what you can do with the Financial Reporting & Analysis with Power BI solution:
+- Report has a clustered bar chart with year on X-Axis and profit on Y-Axis showing profit quarterly.
 
-- Analyze revenue and expenses to identify trends and anomalies.
-- Create scenario analysis models to evaluate the impact of different business decisions on financial performance.
-- Perform comparative analysis across different time periods or business units.
+- And Lastly, Report has a area chart showing months on X-Axis and profit on Y-Axis showing profit monthly.
 
-Happy analyzing! 📊💼
+- I have also included a **Reset** button at the top to clear all slicer's.
+
+- To use it hold CTRL and then click it to reset all the slicer's.
+
+
